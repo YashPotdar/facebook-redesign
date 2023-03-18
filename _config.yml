@@ -5,3 +5,6 @@ plugins:
 # for header and meta tags
 title: Facebook Redesign
 description: redesign aimed for the 65+ community
+
+github:
+  is_project_page: false
