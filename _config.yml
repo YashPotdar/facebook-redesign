@@ -3,6 +3,8 @@ plugins:
 - jekyll-remote-theme
 
 # for header and meta tags
+title_separator: "-"
+title: Facebook Redesign
 description: redesign focused around community-building aimed for the 65+ community
 
 github:
