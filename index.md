@@ -32,9 +32,13 @@ We performed user research to witness firsthand how senior citizens use Facebook
 
 We conducted initial user interviews throughout the span of one week in-person and on Zoom at Belmont Village Senior Living La Jolla. We created this flyer and worked with the manager at Belmont Village to work with members of the community.
 
-![Belmont Interview](assets/images/user_interviews/User_Interview_1.jpg)
-![Belmont Flyer](assets/images/User_Research_Flyer.png)
+<div style="max-width: 50%; height: auto; overflow: hidden; text-align: center;">
+  <img src="assets/images/User_Research_Flyer.png"  alt="Belmont Flyer" style="display: inline-block;">
+</div>
 
+<div style="max-width: 50%; height: auto; overflow: hidden; text-align: center;">
+  <img src="assets/images/user_interviews/User_Interview_1.jpg" alt="Belmont Interview" style="max-width: 100%; height: auto; display: block;">
+</div>
 
 ## Research Methods
 We employed a mixed-methods approach to identify the relationship seniors have with Facebook:
@@ -63,6 +67,23 @@ We employed a mixed-methods approach to identify the relationship seniors have w
 * **Pain Point**: Facebook's excess of features feels overwhelming. If Facebook was not already a part of their lives, it would be very challenging to convince them to use it and overcome the learning curve.
 
 # User Personas
+From the data acquired during our user research, we created three user personas that captured the user groups we interviewed. We identified their backgrounds, pain points, and objectives.
+
+
+<div style="max-width: 100%; height: auto; overflow: hidden; text-align: center;">
+  <img src="assets/images/personas/Clyde Williamson.png"  alt="Clyde Williamson" style="display: inline-block;">
+</div>
+
+
+<div style="max-width: 100%; height: auto; overflow: hidden; text-align: center;">
+  <img src="assets/images/personas/Matilda Jones.png"  alt="Matilda Jones" style="display: inline-block;">
+</div>
+
+
+<div style="max-width: 100%; height: auto; overflow: hidden; text-align: center;">
+  <img src="assets/images/personas/Jimbo Flanders.png"  alt="Jimbo Flanders" style="display: inline-block;">
+</div>
+
 
 
 # High-Fidelity Prototypes
