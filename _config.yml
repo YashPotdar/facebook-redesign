@@ -1,0 +1,7 @@
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+# for header and meta tags
+title: Facebook Redesign
+description: redesign aimed for the 65+ community
