@@ -3,6 +3,7 @@ plugins:
 - jekyll-remote-theme
 
 # for header and meta tags
+name: Facebook Redesign
 title: Facebook Redesign
 description: redesign aimed for the 65+ community
 
