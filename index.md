@@ -1,4 +1,5 @@
-### Project Team: [Yash Potdar](https://www.linkedin.com/in/yashmpotdar/), [Kenneth Nguyen](https://www.linkedin.com/in/kenneth-nguyen-81520/), [Josh Wang](https://www.linkedin.com/in/qiaoxuan-wang/)
+### Project Team: <a href="https://www.linkedin.com/in/yashmpotdar/" target="_blank">Yash Potdar</a>, <a href="https://www.linkedin.com/in/kenneth-nguyen-81520/" target="_blank">Kenneth Nguyen</a>, <a href="https://www.linkedin.com/in/qiaoxuan-wang/" target="_blank">Josh Wang</a>
+
 ### Timeline: 8 weeks
 ### Role: User Research, Wireframing, User Testing, Low- and High-Fidelity Prototyping
 ### Tools: Figma, Lucidchart
