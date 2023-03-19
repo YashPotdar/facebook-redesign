@@ -122,6 +122,25 @@ As we interviewed our users, we addressed other popular social media apps among 
 </div>
 
 # High-Fidelity Prototypes
+<div style="max-width: 100%; height: auto; overflow: hidden; text-align: center;">
+  <img src="assets/images/hi_fi_prototypes/hifi_1_home.png"  alt="High-Fidelity Prototype of Home" style="display: inline-block;">
+</div>
+
+<div style="max-width: 100%; height: auto; overflow: hidden; text-align: center;">
+  <img src="assets/images/hi_fi_prototypes/hifi_2_social_landing.png"  alt="High-Fidelity Prototype of Social Landing" style="display: inline-block;">
+</div>
+
+<div style="max-width: 100%; height: auto; overflow: hidden; text-align: center;">
+  <img src="assets/images/hi_fi_prototypes/hifi_3_profile.png"  alt="High-Fidelity Prototype of Profile" style="display: inline-block;">
+</div>
+
+<div style="max-width: 100%; height: auto; overflow: hidden; text-align: center;">
+  <img src="assets/images/hi_fi_prototypes/hifi_4_event.png"  alt="High-Fidelity Prototype of Event" style="display: inline-block;">
+</div>
+
+<div style="max-width: 100%; height: auto; overflow: hidden; text-align: center;">
+  <img src="assets/images/hi_fi_prototypes/hifi_5_post_messenger.png"  alt="High-Fidelity Prototype of Individual Post and Messenger" style="display: inline-block;">
+</div>
 
 ## User Feedback
 
