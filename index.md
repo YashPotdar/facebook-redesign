@@ -105,19 +105,58 @@ As we interviewed our users, we addressed other popular social media apps among 
 
 ## User Experience (UX) Flows
 
+### Flow 1
+The entry point of Flow 1 is the Home page, which is the first thing the user sees after they open the app. When the user is on Home, there are 4 components that they see: Profile, Messenger, Social, and the main feed. This reduces Facebook's current homepage to 4 simple links. The Profile component allows the user to add information about themselves such as name, hobbies, a bio, and a picture of themselves. The Messenger component allows the user to easily contact their friends through text, call, or video chat. The Social component allows the user to interact with any of the interest groups they are a part of, search for new interest groups, and keep posted for events in their community. 
+
+This flow in particular was designed for the Matilda persona as we wanted to lower the barrier to entry for using Facebook by reducing the amount of options the user has to avoid decision paralysis. This simplistic interface was inspired by Twitter’s homepage which has very few buttons and not many links to click around to.
+
+
+### Flow 2
+The main difference between Flow 1 and Flow 2 lies in a more flattened Social node. Although the Home, Profile, and Messenger portions of the flow remained the same, we have condensed the Social portion of the flow in order to reduce clicks.
+
+Community forums in this flow provide users of all ages a centralized place to find upcoming events, look through posts and feeds, communicate in text/voice/video channels, and reach out to individuals with similar interests. This flow's Social node is largely inspired by Discord, an app that allows users to easily navigate between their servers/communities, and access any relevant information to the given server they’re viewing in the center and right side of the screen. This removes the need for complex navigation systems and lays out all the important information for our users to access immediately. 
+
 ## User Interface (UI) Sketches
+After defining UX Flows, we drew 20 wireframe sketches that represented the pages in the flows and had multiple iterations of each page. Throughout these sketches, we emphasised reduction and spotlight on communities and hobbies. Our sketches leveraged strengths from each of the platforms we analyzed in the competitive audit. 
+
+* **Pinterest**: We designed our Explore page like Pinterest’s, which is extremely simple and visually appealing.
+* **Twitter**: We liked the simplicity of Twitter’s Profile section and view when you click on a post. From our design, if we click a post, we can clearly see all the member interactions, tagged individuals, and tagged communities. 
+* **Discord**: Our Social sketches, especially for flow 2, were inspired by Discord because we like the functionality for switching between communities easily.
+
 
 ## Low-Fidelity Prototypes
+The next step in our design process was low-fidelity prototyping with Figma. In this phase, we wanted to prototype pages essential to the user experience. We focused on greatly simplifying our designs to include only the most crucial components that our demographic would need to use. Our underlying goal was **reducing clicks** that the user needed to make in order to reach their desired screen. This led us to focus on refining Flow 2 and making iterations of this flow's screens, as Flow 2 was more efficient at reducing clicks.
+
+As seen below, we made two iterations of the Home and Event pages, which were key screens. Version 1 of these pages had less information, while being more minimalistic in design. Understanding our demographic’s core needs and preferences, we hypothesized that Version 1 of these pages would be the better option. Next, we conducted user testing to objectively decide which prototypes our audience preferred, and where we would improve the interface.
+
 <div style="max-width: 100%; height: auto; overflow: hidden; text-align: center;">
   <img src="assets/images/Lofi_Prototypes.png"  alt="Low-Fidelity Prototypes" style="display: inline-block;">
 </div>
 
 ## User Testing
-<div style="max-width: 50%; height: auto; overflow: hidden; text-align: center;">
+We tested our low-fidelity prototypes in-person and on Zoom with some of the users we initially interviewed. We presented the interviewees the prototypes one at a time and described each interface, and how they were all connected.  
+
+We asked our interviewees to conduct a series of tasks and guide us through how they would perform these:
+* One of your hobbies is flyfishing. How would you add a hobby to your profile?
+* Your son has posted a family photo. How would you comment, save, and share this photo?
+* One of your close family friends is hosting a barbeque dinner party at their home next weekend and they have invited you via Facebook event. How would you accept or reject the invite and check the invite list?
+* You are interested in taking your significant other out on a wine & cheese tasting date night. How would you look for events or venues like that in the upcoming two weeks?
+
+<div style="max-width: 60%; height: auto; overflow: hidden; text-align: center;">
   <img src="assets/images/user_interviews/User_Interview_3.jpg"  alt="Prototype Review In-Person" style="display: inline-block;">
 </div>
 
-<div style="max-width: 80%; height: auto; overflow: hidden; text-align: center;">
+Overall, our interviewees found the prototypes to be very intuitive and logical to follow. They were able to navigate through our tasks outlined above very easily, and gave insightful feedback regarding the user experience. The consensus between our interviewees was that Version 1 of the Home and Event pages were stronger because they were streamlined and easier to navigate. We also noted positive and constructive feedback from these interviews, with a few highlighted below:
+* **Positive Feedback**: 
+    * Liked the emphasis on hobbies and communities
+    * Liked the simplicity of Profile, Individual Event, and Home page
+    * Loved the Favorites feature to highlight closest friends on Messenger
+* **Constructive Feedback**:
+    * The social landing page needed to be streamlined for mobile users as it looked cluttered. We addressed this by collapsing and expanding the “members” and “community” tabs, widening the feed section, and including conversation/text channels within these communities for specific topics.
+    * The buttons at the top of the All Events page could be more clear. We addressed this by changing the buttons to have Popular, Local, Communities, and RSVPs, which would clearly cover all range of Events.
+    * There wasn't currently a centralized tab for Notifications. We added this in our next stage of prototypes.
+
+<div style="max-width: 100%; height: auto; overflow: hidden; text-align: center;">
   <img src="assets/images/user_interviews/User_Interview_4.png"  alt="Prototype Review Zoom" style="display: inline-block;">
 </div>
 
@@ -139,7 +178,7 @@ As we interviewed our users, we addressed other popular social media apps among 
 </div>
 
 <div style="max-width: 100%; height: auto; overflow: hidden; text-align: center;">
-  <img src="assets/images/hi_fi_prototypes/hifi_5_post_messenger.png"  alt="High-Fidelity Prototype of Individual Post and Messenger" style="display: inline-block;">
+  <img src="assets/images/hi_fi_prototypes/hifi_5_post_messenger.png"  alt="High-Fidelity Prototype of Post and Messenger" style="display: inline-block;">
 </div>
 
 ## User Feedback
