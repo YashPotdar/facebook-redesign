@@ -91,13 +91,23 @@ As we interviewed our users, we addressed other popular social media apps among 
   <img src="assets/images/Competitor_Flow.png"  alt="Competitor Flow" style="display: inline-block;">
 </div>
 
-## Takeaways
+## Key Takeaways
 * Twitter’s model of low-stakes posting is a huge strength. Simple update-based posting would be something we would emphasize because users would mostly want to just check in on their loved ones.
 * The simplicity of Pinterest is something we should emulate on our feature for senior citizens. By reducing the amount of scrolling necessary, we should be able to create a more streamlined experience.
 * Although Discord is invite-only to channels, we believe the channels and community aspect Discord provides is more in line with what the 65+ community is looking for.
 * We want to incorporate the sense of community and diverse channels that Reddit has without inundating users with a deluge of noise.
 
+# Initial Designs
+
+## User Interface (UI) Sketches
+
+## Low-Fidelity Prototypes
+
 # High-Fidelity Prototypes
+
+## User Testing
+
+## Final Prototype Selection
 
 # Reflection
 
