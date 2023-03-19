@@ -161,28 +161,49 @@ Overall, our interviewees found the prototypes to be very intuitive and logical 
 </div>
 
 # High-Fidelity Prototypes
+After creating wireframe prototypes and conducting user testing, we created high-fidelity prototypes using Figma that adhered to Facebook's brand guidelines. We conducted a third and final round of user interviews with initial high-fidelity prototypes in order to receive more feedback and create the refined high-fidelity prototypes, which are below: 
+
 <div style="max-width: 100%; height: auto; overflow: hidden; text-align: center;">
   <img src="assets/images/hi_fi_prototypes/hifi_1_home.png"  alt="High-Fidelity Prototype of Home" style="display: inline-block;">
 </div>
+
+Version 2 of Home is more akin towards an Instagram style layout, where we have more key functions laid out on the bottom of the screen rather than having the 3 main functions at the top of the screen. After conducting a third and final round of user interviews, we found that users preferred **Home V2** due to its “more vertical” organization and option to switch between the Suggested, Following, and Favorites feeds. We will use Version 2 in our redesign.
 
 <div style="max-width: 100%; height: auto; overflow: hidden; text-align: center;">
   <img src="assets/images/hi_fi_prototypes/hifi_2_social_landing.png"  alt="High-Fidelity Prototype of Social Landing" style="display: inline-block;">
 </div>
 
+Version 1 of Social Landing makes use of vertical space by having the community bars and upcoming events at the top. On the left bar, there is a toggle between the Feed and Text Channels, which will appear on the right side of the vertical bar. Version 2 is formatted in a style similar to Discord with a dropdown menu at the top of the screen to toggle between Feed and Text Channels, as well as keeping the communities and events on the side of the screen. All users preferred **Social Landing V1**, as it made more room for posts while still providing them with a way to switch between communities and identify their events at a glance.
+
 <div style="max-width: 100%; height: auto; overflow: hidden; text-align: center;">
   <img src="assets/images/hi_fi_prototypes/hifi_3_profile.png"  alt="High-Fidelity Prototype of Profile" style="display: inline-block;">
 </div>
+
+The Profile pages offer a streamlined view that focus on Friends, Communities, Events, and Hobbies since these were core needs of our target audience. Two features not currently implemented by Facebook are Favorite friends, which only you can see, and the ability to see what your profile looks like from a third perspective.
 
 <div style="max-width: 100%; height: auto; overflow: hidden; text-align: center;">
   <img src="assets/images/hi_fi_prototypes/hifi_4_event.png"  alt="High-Fidelity Prototype of Event" style="display: inline-block;">
 </div>
 
+The All Events page makes it easy to find local events, filter them by region, respond to RSVPs, and even create new events. They have a simplified preview that shows essential information and allows them to RSVP with one click, save the event, and share. 
+
+The Individual Event page shows essential information that our target audience desires, such as date, time, location, and friends attending.
+
 <div style="max-width: 100%; height: auto; overflow: hidden; text-align: center;">
   <img src="assets/images/hi_fi_prototypes/hifi_5_post_messenger.png"  alt="High-Fidelity Prototype of Post and Messenger" style="display: inline-block;">
 </div>
 
-## User Feedback
+The Individual Post page shows the view if a user clicks on a post they see on their Home or in a Community Feed. We see information like tagged community and people, comments, location, and have simple buttons to engage with the post.
 
-## Final Prototype Selection
+The Messenger interface is simplified to have Favorites at the top, which is a feature missing from Facebook, but highly valued by our audience. These would be close friends or loved ones you are probably in contact with the most or want to be able to easily contact. These are also reflected on your own Profile page. We also added easy access buttons to voice or video call somebody.
 
 # Reflection
+
+Our biggest takeaways from user testing was that our target audience values viewing family/friend photos, finding events, and maintaining communication with their friends and family. They also want a simplified experience with minimal clicks, which is why we decluttered many of the pages and placed an emphasis on their desired functions. We also learned that users in our target audience do not want to meet new people online, but would be happy to make friends in-person at an event and then connect online.
+
+---
+---
+
+### Acknowledgments
+
+We would like to thank Anabel Kuykendall, the Activity Programs Coordinator at Belmont Village Senior Living, who helped facilitate our interactions with individuals in the community. She helped distribute our flyer and introduced us to members of the community for interviews. Without her help, we would not be able to gain the high quality and volume of user interviews that we were able to have.
