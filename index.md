@@ -1,8 +1,8 @@
-### Project Team: <a href="https://www.linkedin.com/in/yashmpotdar/" target="_blank">Yash Potdar</a>, <a href="https://www.linkedin.com/in/kenneth-nguyen-81520/" target="_blank">Kenneth Nguyen</a>, <a href="https://www.linkedin.com/in/qiaoxuan-wang/" target="_blank">Josh Wang</a>
+### Project Team: <a href="https://www.linkedin.com/in/yashmpotdar/" target="_blank">Yash Potdar</a> , <a href="https://www.linkedin.com/in/kenneth-nguyen-81520/" target="_blank">Kenneth Nguyen</a> , <a href="https://www.linkedin.com/in/qiaoxuan-wang/" target="_blank">Josh Wang</a>
 
 ### Timeline: 8 weeks
-### Role: User Research, Wireframing, User Testing, Low- and High-Fidelity Prototyping
-### Tools: Figma, Lucidchart
+### Role: User Research , Wireframing , User Testing , Low- and High-Fidelity Prototyping
+### Tools: Figma , Lucidchart
 ---
 ---
 
@@ -179,7 +179,7 @@ Version 1 of Social Landing makes use of vertical space by having the community 
   <img src="assets/images/hi_fi_prototypes/hifi_3_profile.png"  alt="High-Fidelity Prototype of Profile" style="display: inline-block;">
 </div>
 
-The Profile pages offer a streamlined view that focus on Friends, Communities, Events, and Hobbies since these were core needs of our target audience. Two features not currently implemented by Facebook are Favorite friends, which only you can see, and the ability to see what your profile looks like from a third perspective.
+The Profile pages offer a streamlined view that focus on Friends, Communities, Events, and Hobbies since these were core needs of our target audience. Two features not currently implemented by Facebook are Favorite friends, which only you can see, and the ability to see what your profile looks like from a third perspective. You can also see the Shared Communities, Events, and Hobbies between you and another user.
 
 <div style="max-width: 100%; height: auto; overflow: hidden; text-align: center;">
   <img src="assets/images/hi_fi_prototypes/hifi_4_event.png"  alt="High-Fidelity Prototype of Event" style="display: inline-block;">
@@ -197,9 +197,17 @@ The Individual Post page shows the view if a user clicks on a post they see on t
 
 The Messenger interface is simplified to have Favorites at the top, which is a feature missing from Facebook, but highly valued by our audience. These would be close friends or loved ones you are probably in contact with the most or want to be able to easily contact. These are also reflected on your own Profile page. We also added easy access buttons to voice or video call somebody.
 
-# Reflection
+# Reflection 
 
-Our biggest takeaways from user testing was that our target audience values viewing family/friend photos, finding events, and maintaining communication with their friends and family. They also want a simplified experience with minimal clicks, which is why we decluttered many of the pages and placed an emphasis on their desired functions. We also learned that users in our target audience do not want to meet new people online, but would be happy to make friends in-person at an event and then connect online.
+Overall, this project was a valuable experience because I was able to work with a team through the entire design process, while working closely with our target audience of the 65+ community. The mission of increasing accessibility for a widely-used app within the 65+ community and aiming to target feelings of loneliness and lack of fulfillment is one I'm truly passionate about and proud to have worked on. Although I don't work for Facebook and these were just designs, I believe this could have a strong impact if it were to be implemented by the company. In my vision, this redesign would lead to more members of the 65+ community using Facebook to find communities, events, connecting with individuals with shared hobbies, and maintaining contact with loved ones.
+
+Before you embark on your design project, here are **my key takeaways** I want to share with you:
+
+* **Always have the user's needs in mind**: It was always important to keep in mind the core needs, pain points, and values of our target audience. In our case, users want a simplified experience with minimal clicks, which is why we decluttered many of the pages and placed an emphasis on their desired functions. They mainly want to use Facebook to view photos from family and loved ones, find events, and maintain communication with friends. I have learned that it's crucial to design prototypes from the lens of your target user.
+
+* **Put aside your biases**: Although we had design ideas that we believed were unique and creative, they were not as popular with our target user. Through the design process, I learned that it is crucial to view your prototypes objectively and value the users' opinions more than yours. It may be easy to prefer a particular prototype because it resonates to you, but at the end of the day, it is the target user who you're designing for.
+
+* **Be welcoming to feedback**: Without constructive feedback from our interviewees or peers, we would not have ended up with a redesign this strong. The design process is very much feedback-driven, as nobody gets it right the first time. From our UI sketches to low-fidelity prototypes to high-fidelity prototypes, we were receptive to positive and constructive feedback at each stage and aimed to address all points of feedback. As a designer, I learned to implement feedback by focusing on improvements reflected in constructive feedback as well as harnessing the strengths of the design reflected in positive feedback. I learned to welcome critical feedback because the end goal was to make an app redesign that would largely benefit the 65+ community.
 
 ---
 ---
