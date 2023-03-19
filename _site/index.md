@@ -40,6 +40,10 @@ We conducted initial user interviews throughout the span of one week in-person a
   <img src="assets/images/user_interviews/User_Interview_1.jpg" alt="Belmont Interview" style="max-width: 100%; height: auto; display: block;">
 </div>
 
+<div style="max-width: 50%; height: auto; overflow: hidden; text-align: center;">
+  <img src="assets/images/user_interviews/User_Interview_2.jpg" alt="Belmont Interview" style="max-width: 100%; height: auto; display: block;">
+</div>
+
 ## Research Methods
 We employed a mixed-methods approach to identify the relationship seniors have with Facebook:
 
@@ -97,18 +101,30 @@ As we interviewed our users, we addressed other popular social media apps among 
 * Although Discord is invite-only to channels, we believe the channels and community aspect Discord provides is more in line with what the 65+ community is looking for.
 * We want to incorporate the sense of community and diverse channels that Reddit has without inundating users with a deluge of noise.
 
-# Initial Designs
+# Wireframes
+
+## User Experience (UX) Flows
 
 ## User Interface (UI) Sketches
 
 ## Low-Fidelity Prototypes
+<div style="max-width: 100%; height: auto; overflow: hidden; text-align: center;">
+  <img src="assets/images/Lofi_Prototypes.png"  alt="Low-Fidelity Prototypes" style="display: inline-block;">
+</div>
+
+## User Testing
+<div style="max-width: 50%; height: auto; overflow: hidden; text-align: center;">
+  <img src="assets/images/user_interviews/User_Interview_3.jpg"  alt="Prototype Review In-Person" style="display: inline-block;">
+</div>
+
+<div style="max-width: 80%; height: auto; overflow: hidden; text-align: center;">
+  <img src="assets/images/user_interviews/User_Interview_4.png"  alt="Prototype Review Zoom" style="display: inline-block;">
+</div>
 
 # High-Fidelity Prototypes
 
-## User Testing
+## User Feedback
 
 ## Final Prototype Selection
 
 # Reflection
-
-fdsf
