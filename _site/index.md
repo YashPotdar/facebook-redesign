@@ -64,7 +64,7 @@ We employed a mixed-methods approach to identify the relationship seniors have w
 * Seniors mainly use Facebook to keep in touch with loved ones and reconnect with old friends.
 
 <p  style="font-size: 1.5rem; color: #4267B2; font-weight: bold;">"Facebook has made my relationships stronger and better, as well as more frequent."</p>
-<p  style="font-size: 1.5rem; color: #4267B2; font-weight: bold;">"I use Facebook to find my friends from my former life."</p>
+<p  style="font-size: 1.5rem; color: #4267B2; font-weight: bold;">"I use Facebook to find friends from my former life."</p>
 
 * Seniors are open to joining groups or communities based on similar interests or beliefs as long as they as accessible for seniors.
 
@@ -105,13 +105,22 @@ As we interviewed our users, we addressed other popular social media apps among 
 
 ## User Experience (UX) Flows
 
-### Flow 1
+### Flow 1: Linear Social Node
+
+<div style="max-width: 100%; height: auto; overflow: hidden; text-align: center;">
+  <img src="assets/images/UX Flows/UX_Flow_1.png"  alt="UX Flow 1" style="display: inline-block;">
+</div>
+
 The entry point of Flow 1 is the Home page, which is the first thing the user sees after they open the app. When the user is on Home, there are 4 components that they see: Profile, Messenger, Social, and the main feed. This reduces Facebook's current homepage to 4 simple links. The Profile component allows the user to add information about themselves such as name, hobbies, a bio, and a picture of themselves. The Messenger component allows the user to easily contact their friends through text, call, or video chat. The Social component allows the user to interact with any of the interest groups they are a part of, search for new interest groups, and keep posted for events in their community. 
 
 This flow in particular was designed for the Matilda persona as we wanted to lower the barrier to entry for using Facebook by reducing the amount of options the user has to avoid decision paralysis. This simplistic interface was inspired by Twitter’s homepage which has very few buttons and not many links to click around to.
 
 
-### Flow 2
+### Flow 2: Flattened Social Node
+<div style="max-width: 100%; height: auto; overflow: hidden; text-align: center;">
+  <img src="assets/images/UX Flows/UX_Flow_2.png"  alt="UX Flow 2" style="display: inline-block;">
+</div>
+
 The main difference between Flow 1 and Flow 2 lies in a more flattened Social node. Although the Home, Profile, and Messenger portions of the flow remained the same, we have condensed the Social portion of the flow in order to reduce clicks.
 
 Community forums in this flow provide users of all ages a centralized place to find upcoming events, look through posts and feeds, communicate in text/voice/video channels, and reach out to individuals with similar interests. This flow's Social node is largely inspired by Discord, an app that allows users to easily navigate between their servers/communities, and access any relevant information to the given server they’re viewing in the center and right side of the screen. This removes the need for complex navigation systems and lays out all the important information for our users to access immediately. 
@@ -123,6 +132,11 @@ After defining UX Flows, we drew 20 wireframe sketches that represented the page
 * **Twitter**: We liked the simplicity of Twitter’s Profile section and view when you click on a post. From our design, if we click a post, we can clearly see all the member interactions, tagged individuals, and tagged communities. 
 * **Discord**: Our Social sketches, especially for flow 2, were inspired by Discord because we like the functionality for switching between communities easily.
 
+Below are some highlighted UI sketches:
+<div style="max-width: 100%; height: auto; overflow: hidden; text-align: center;">
+  <img src="assets/images/Wireframes/UI_Sketches.png"  alt="UI Sketches" style="display: inline-block;">
+</div>
+
 
 ## Low-Fidelity Prototypes
 The next step in our design process was low-fidelity prototyping with Figma. In this phase, we wanted to prototype pages essential to the user experience. We focused on greatly simplifying our designs to include only the most crucial components that our demographic would need to use. Our underlying goal was **reducing clicks** that the user needed to make in order to reach their desired screen. This led us to focus on refining Flow 2 and making iterations of this flow's screens, as Flow 2 was more efficient at reducing clicks.
@@ -130,7 +144,7 @@ The next step in our design process was low-fidelity prototyping with Figma. In 
 As seen below, we made two iterations of the Home and Event pages, which were key screens. Version 1 of these pages had less information, while being more minimalistic in design. Understanding our demographic’s core needs and preferences, we hypothesized that Version 1 of these pages would be the better option. Next, we conducted user testing to objectively decide which prototypes our audience preferred, and where we would improve the interface.
 
 <div style="max-width: 100%; height: auto; overflow: hidden; text-align: center;">
-  <img src="assets/images/Lofi_Prototypes.png"  alt="Low-Fidelity Prototypes" style="display: inline-block;">
+  <img src="assets/images/Wireframes/Lofi_Prototypes.png"  alt="Low-Fidelity Prototypes" style="display: inline-block;">
 </div>
 
 ## User Testing
