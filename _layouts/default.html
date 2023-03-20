@@ -3,9 +3,9 @@
 
     <title>
         {% if page.title %}
-        {{ page.title }}{% unless page.title == site.title %} | {{ site.title }}{% endunless %}
+        {{ page.title }}{% unless page.title == site.name %} | {{ site.name }}{% endunless %}
         {% else %}
-        {{ site.title }}
+        {{ site.name }}
         {% endif %}
 
     </title>
