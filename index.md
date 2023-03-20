@@ -1,5 +1,5 @@
 ---
-title: Test Page Title
+title: Facebook Redesign
 ---
 
 ### Project Team: <a href="https://www.linkedin.com/in/yashmpotdar/" target="_blank">Yash Potdar</a>, <a href="https://www.linkedin.com/in/kenneth-nguyen-81520/" target="_blank">Kenneth Nguyen</a>, <a href="https://www.linkedin.com/in/qiaoxuan-wang/" target="_blank">Josh Wang</a>
